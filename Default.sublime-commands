@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "ChangeCase: Title Case",
+        "command": "change_case_title_case"
+    }
+]
